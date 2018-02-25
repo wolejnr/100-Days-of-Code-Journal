@@ -304,5 +304,13 @@
 **Today's Progress**: Watched a freeCodeCamp video on how to write technical blogs. Preparing to start my tribute page but wondering which editor would serve me best - Brackets of VS Code
 
 **Thoughts** 
-* I am getting into technical blogging on how to choose between technologies 
+* I am getting into technical blogging on how to choose between technologies
+
+
+### Day 42: February 11, 2018
+
+**Today's Progress**: Completed the Tribute Page project on FreeCodeCamp
+
+**Thoughts** 
+* One down one to go...
 
