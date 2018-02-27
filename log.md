@@ -314,3 +314,11 @@
 **Thoughts** 
 * One down one to go...
 
+
+### Day 43: February 12, 2018
+
+**Today's Progress**: Started a mock up of my portfolio project on FreeCodeCamp
+
+**Thoughts** 
+* One down one to go...
+
