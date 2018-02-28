@@ -322,3 +322,11 @@
 **Thoughts** 
 * One down one to go...
 
+
+### Day 44: February 13, 2018
+
+**Today's Progress**: Completed a homework from PennX titled: "Programming the Web with JavaScript" where I had to demonstrate the ability to convert inline CSS into external CSS
+
+**Thoughts** 
+* Fast and steady wins with VS Code...
+
