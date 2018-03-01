@@ -330,3 +330,11 @@
 **Thoughts** 
 * Fast and steady wins with VS Code...
 
+
+### Day 45: February 14, 2018
+
+**Today's Progress**: Completed the Portfolio project from FreeCodeCamp.org. Moving on to Basic JavaScript
+
+**Thoughts** 
+* Fast and steady wins with VS Code...
+
