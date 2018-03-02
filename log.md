@@ -354,3 +354,11 @@
 **Thoughts** 
 * Can't wait to walk through the length and breadth of JavaScript...
 
+
+### Day 48: February 17, 2018
+
+**Today's Progress**: Completed thirty challenges under Basic JavaScript from FreeCodeCamp. 
+
+**Thoughts** 
+* Can't wait to walk through the length and breadth of JavaScript...
+
