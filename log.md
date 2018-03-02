@@ -370,3 +370,11 @@
 **Thoughts** 
 * Can't wait to walk through the length and breadth of JavaScript...
 
+
+### Day 50: February 19, 2018
+
+**Today's Progress**: Learnt about comparison operators, functions and strings in JavaScript from #PennX. 
+
+**Thoughts** 
+* Can't wait to walk through the length and breadth of JavaScript...
+
