@@ -338,3 +338,11 @@
 **Thoughts** 
 * Fast and steady wins with VS Code...
 
+
+### Day 46: February 15, 2018
+
+**Today's Progress**: Completed the first ten challenges under Basic JavaScript from FreeCodeCamp.org. 
+
+**Thoughts** 
+* Can't wait to walk through the length and breadth of JavaScript...
+
