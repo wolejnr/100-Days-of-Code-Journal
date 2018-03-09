@@ -401,3 +401,12 @@
 
 **Thoughts** 
 * Can't wait to walk through the length and breadth of JavaScript...
+
+
+### Day 54: February 23, 2018
+
+**Today's Progress**: Learnt how to work with Git in VS Code and set up my repository to build a Portfolio site using MaterializeCSS. 
+
+**Thoughts** 
+* Seems like MaterializeCSS can help me build a state of the art profile site as against the popular Bootstrap
+* I will thus explore and use the documentation to build a new profile page.
