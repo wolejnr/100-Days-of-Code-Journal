@@ -410,3 +410,11 @@
 **Thoughts** 
 * Seems like MaterializeCSS can help me build a state of the art profile site as against the popular Bootstrap
 * I will thus explore and use the documentation to build a new profile page.
+
+
+### Day 55: February 24, 2018
+
+**Today's Progress**: Completed seventy challenges under Basic JavaScript from FreeCodeCamp. 
+
+**Thoughts** 
+* Can't wait to walk through the length and breadth of JavaScript...
