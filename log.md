@@ -434,3 +434,11 @@
 
 **Thoughts** 
 * Can't wait to walk through the length and breadth of JavaScript...
+
+
+### Day 58: February 27, 2018
+
+**Today's Progress**: I have completed the Basic JavaScript section of FreeCodeCamp and moving on to Object Oriented and Functional Programming with JavaScript. 
+
+**Thoughts** 
+* Can't wait to walk through the length and breadth of JavaScript...
