@@ -453,3 +453,11 @@
 * Can't wait to start testing out my knowledge with projects in JavaScript
 
 
+### Day 60: March 1, 2018
+
+**Today's Progress**: I have officially commenced the Basic Algorithm Scripting module in FreeCodeCamp. 
+
+**Thoughts** 
+* Can't wait to start testing out my knowledge with projects in JavaScript
+
+
