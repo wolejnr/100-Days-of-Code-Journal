@@ -442,3 +442,14 @@
 
 **Thoughts** 
 * Can't wait to walk through the length and breadth of JavaScript...
+
+
+
+### Day 59: February 28, 2018
+
+**Today's Progress**: I have completed the Object Oriented and Functional Programming with JavaScript in FreeCodeCamp. 
+
+**Thoughts** 
+* Can't wait to start testing out my knowledge with projects in JavaScript
+
+
