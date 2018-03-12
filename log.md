@@ -461,3 +461,11 @@
 * Can't wait to start testing out my knowledge with projects in JavaScript
 
 
+### Day 61: March 2, 2018
+
+**Today's Progress**: Started tinkering with Materialize CSS and applying the concepts in rebuilding my portfolio page from ground up. 
+
+**Thoughts** 
+* Design takes times...
+
+
