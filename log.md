@@ -469,3 +469,11 @@
 * Design takes times...
 
 
+### Day 62: March 3, 2018
+
+**Today's Progress**: Completed the second homework from PennX MOOC titled, "Programming the Web with JavaScript". 
+
+**Thoughts** 
+* It took a while but I got it done.
+
+
