@@ -477,3 +477,11 @@
 * It took a while but I got it done.
 
 
+### Day 63: March 4, 2018
+
+**Today's Progress**: Learnt about the DOM today. 
+
+**Thoughts** 
+* No coding just a video.
+
+
