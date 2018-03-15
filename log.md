@@ -485,3 +485,11 @@
 * No coding just a video.
 
 
+### Day 64: March 5, 2018
+
+**Today's Progress**: Studied jQuery today and learnt how to use it to dynamically change HTML elements. 
+
+**Thoughts** 
+* Ready to apply my knowledge to the jQuery assignment.
+
+
