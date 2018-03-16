@@ -493,3 +493,11 @@
 * Ready to apply my knowledge to the jQuery assignment.
 
 
+### Day 65: March 6, 2018
+
+**Today's Progress**: Struggled with writing the javascript code to determine palindromes but got stock with trying to match underscores. I guess I need to spend more time with regular expressions. 
+
+**Thoughts** 
+* Regular expressions are not trivial.
+
+
