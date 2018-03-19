@@ -501,3 +501,11 @@
 * Regular expressions are not trivial.
 
 
+### Day 66: March 7, 2018
+
+**Today's Progress**: Today I made appreciable progress with developing my web calculator with jQuery. Thanks for the great input @WebDevDeja 
+
+**Thoughts** 
+* You don't have to re-invent the wheel.
+
+
