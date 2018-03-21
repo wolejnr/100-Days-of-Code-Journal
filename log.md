@@ -517,3 +517,11 @@
 **Thoughts** 
 * Done is better than perfect. I am must keep moving or risk being stagnated.
 
+
+### Day 68: March 9, 2018
+
+**Today's Progress**: Finally in Week 3 of the PennX MOOC titled, "Programming the Web with JavaScript". This week I am learning the much famed React and D3 frameworks.
+
+**Thoughts** 
+* Finally I am face to face with React. Whoooo.....
+
