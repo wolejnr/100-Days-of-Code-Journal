@@ -509,3 +509,11 @@
 * You don't have to re-invent the wheel.
 
 
+
+### Day 67: March 8, 2018
+
+**Today's Progress**: Not much coding but I turned in my third assignment for PennX which was a jQuery Calculator 
+
+**Thoughts** 
+* Done is better than perfect. I am must keep moving or risk being stagnated.
+
