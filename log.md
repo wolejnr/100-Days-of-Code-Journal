@@ -525,3 +525,12 @@
 **Thoughts** 
 * Finally I am face to face with React. Whoooo.....
 
+
+### Day 69: March 10, 2018
+
+**Today's Progress**: Solved an algorithm from the freeCodeCamp basic algorithm challenge.
+
+**Thoughts** 
+* We are back in form and ready for action...
+* Today, I published my first Medium article which is a review of Leadership lessons I learned from the Black Panther movie.
+
