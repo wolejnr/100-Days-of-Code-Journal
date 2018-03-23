@@ -534,3 +534,12 @@
 * We are back in form and ready for action...
 * Today, I published my first Medium article which is a review of Leadership lessons I learned from the Black Panther movie.
 
+
+### Day 70: March 11, 2018
+
+**Today's Progress**: Watched some introductory videos on React.
+
+**Thoughts** 
+* No hands-on yet...
+
+
