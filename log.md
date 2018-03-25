@@ -551,3 +551,11 @@
 * No hands-on yet...
 
 
+### Day 72: March 13, 2018
+
+**Today's Progress**: Started doing hands-on learning on React using the video tutorial I found.
+
+**Thoughts** 
+* Let the coding begin...
+
+
