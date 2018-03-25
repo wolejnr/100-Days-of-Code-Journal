@@ -543,3 +543,11 @@
 * No hands-on yet...
 
 
+### Day 71: March 12, 2018
+
+**Today's Progress**: Search for a useful video tutorial on React for beginners and stumbled upon [this](https://www.youtube.com/watch?v=S66rHpyU-Eg).
+
+**Thoughts** 
+* No hands-on yet...
+
+
