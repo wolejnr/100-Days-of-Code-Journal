@@ -559,3 +559,14 @@
 * Let the coding begin...
 
 
+
+### Day 73: March 14, 2018
+
+**Today's Progress**: Developed a React CRUD app by following a code along video.
+
+**Thoughts** 
+* Need to learn the rudiments of React...
+
+
+
+
