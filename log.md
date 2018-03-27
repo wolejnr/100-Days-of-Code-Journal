@@ -568,5 +568,13 @@
 * Need to learn the rudiments of React...
 
 
+### Day 74: March 15, 2018
+
+**Today's Progress**: Started reading and coding along using the official React tutorial to develop a tic-tac-toe game. Learnt about Components today
+
+**Thoughts** 
+* Next I will learn how to pass data through props...
+
+
 
 
