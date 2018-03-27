@@ -576,5 +576,12 @@
 * Next I will learn how to pass data through props...
 
 
+### Day 75: March 16, 2018
+
+**Today's Progress**: Learnt how to pass data through props. Also learnt how to install and use the React Developer tools for Chrome
+
+**Thoughts** 
+* Will be moving next to Lifting state up...
+
 
 
