@@ -584,4 +584,12 @@
 * Will be moving next to Lifting state up...
 
 
+### Day 76: March 17, 2018
+
+**Today's Progress**: Still learning the ReactJS basics. Found out how to write ReactJS without using Create-React-App command.
+
+**Thoughts** 
+* Will be moving next to Lifting state up...
+
+
 
