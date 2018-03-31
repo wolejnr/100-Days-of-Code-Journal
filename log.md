@@ -592,4 +592,12 @@
 * Will be moving next to Lifting state up...
 
 
+### Day 77: March 18, 2018
+
+**Today's Progress**: Completed chapter 3 of Eloquent JavaScript.
+
+**Thoughts** 
+* Thank God for Easter holiday...
+
+
 
