@@ -600,4 +600,12 @@
 * Thank God for Easter holiday...
 
 
+### Day 78: March 19, 2018
+
+**Today's Progress**: Completed another algorithm challenge from FreeCodeCamp.
+
+**Thoughts** 
+* Sweet arrays...
+
+
 
