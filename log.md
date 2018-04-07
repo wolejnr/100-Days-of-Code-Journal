@@ -616,4 +616,12 @@
 * If you cannot fly, run...
 
 
+### Day 80: March 21, 2018
+
+**Today's Progress**: Completed Chapter 4 of Eloquent JavaScript.
+
+**Thoughts** 
+* If you cannot fly, run...
+
+
 
