@@ -608,4 +608,12 @@
 * Sweet arrays...
 
 
+### Day 79: March 20, 2018
+
+**Today's Progress**: Learnt about JSON APIs and Ajax from FreeCodeCamp.
+
+**Thoughts** 
+* If you cannot fly, run...
+
+
 
