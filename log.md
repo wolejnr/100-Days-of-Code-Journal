@@ -624,4 +624,12 @@
 * If you cannot fly, run...
 
 
+### Day 81: March 22, 2018
+
+**Today's Progress**: Solved "The sum of range" challenge from Chapter 4 of Eloquent JavaScript.
+
+**Thoughts** 
+* If you cannot fly, run...
+
+
 
