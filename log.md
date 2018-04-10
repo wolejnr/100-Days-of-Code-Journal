@@ -632,4 +632,12 @@
 * If you cannot fly, run...
 
 
+### Day 82: March 23, 2018
+
+**Today's Progress**: Learnt about higher order functions in JavaScript. It all still seems hazy at the moment.
+
+**Thoughts** 
+* If you cannot fly, run...
+
+
 
