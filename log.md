@@ -640,4 +640,12 @@
 * If you cannot fly, run...
 
 
+### Day 83: March 24, 2018
+
+**Today's Progress**: Completed React.js Bootcamp - Day 1. Learnt about props, components and how to create them with and without JSX
+
+**Thoughts** 
+* I need to focus energy for the next few days learning and mastering React.js...
+
+
 
