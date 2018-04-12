@@ -648,4 +648,12 @@
 * I need to focus energy for the next few days learning and mastering React.js...
 
 
+### Day 84: March 25, 2018
+
+**Today's Progress**: Learnt about the this keyword in JavaScript and how to know what it references. Also learnt about .call(), .bind(), .apply()
+
+**Thoughts** 
+* Focusing on React.js...
+
+
 
