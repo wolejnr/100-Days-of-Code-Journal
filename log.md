@@ -656,4 +656,12 @@
 * Focusing on React.js...
 
 
+### Day 85: March 26, 2018
+
+**Today's Progress**: Completed React.js Bootcamp - Day 2. Learnt about states being another way of handling data
+
+**Thoughts** 
+* Focusing on React.js...
+
+
 
