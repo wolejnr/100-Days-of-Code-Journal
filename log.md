@@ -664,4 +664,15 @@
 * Focusing on React.js...
 
 
+### Day 86: March 27, 2018
+
+**Today's Progress**: Tinkered with writing three React apps and started to see the bigger picture about components, props and state and how they all tie together 
+
+**Thoughts** 
+* Focusing on React.js...
+
+
+
+
+
 
