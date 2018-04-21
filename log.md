@@ -672,6 +672,22 @@
 * Focusing on React.js...
 
 
+### Day 87: March 28, 2018
+
+**Today's Progress**: Started learning about Node.js while still keeping React.js in view
+
+**Thoughts** 
+* Dabbling into Node.js using Bucky Roberts video...
+
+
+### Day 88: March 29, 2018
+
+**Today's Progress**: Continued learning about Node.js while still keeping React.js in view
+
+**Thoughts** 
+* Learnt about Express.js today...
+
+
 
 
 
