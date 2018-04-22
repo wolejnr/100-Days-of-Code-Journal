@@ -689,6 +689,17 @@
 
 
 
+### Day 89: March 30, 2018
+
+**Today's Progress**: Learnt about modules, object factory and how to create a basic Web server with Node.js
+
+**Thoughts** 
+* Slow and steady...
+
+
+
+
+
 
 
 
