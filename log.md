@@ -697,6 +697,14 @@
 * Slow and steady...
 
 
+### Day 90: March 31, 2018
+
+**Today's Progress**: Started and completed the working version of Random Quote Machine. Next I'm going to see how to style it
+
+**Thoughts** 
+* Back to building projects...
+
+
 
 
 
