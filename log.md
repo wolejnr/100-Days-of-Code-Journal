@@ -713,6 +713,14 @@
 * Back to building projects...
 
 
+### Day 92: April 2, 2018
+
+**Today's Progress**: Finished off the core functionality of the random quote machine by making it possible to tweet the quotes using a tweet button. Many thanks to [NASA StemTheFuture](https://www.youtube.com/watch?v=9L0orUhlhuY)
+
+**Thoughts** 
+* Back to building projects...
+
+
 
 
 
