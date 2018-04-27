@@ -705,6 +705,14 @@
 * Back to building projects...
 
 
+### Day 91: April 1, 2018
+
+**Today's Progress**: Added some CSS styling to the working version of my Random Quote Machine. Next step is to finish off the core functionality by making it possible to tweet the quotes.
+
+**Thoughts** 
+* Back to building projects...
+
+
 
 
 
