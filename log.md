@@ -721,6 +721,14 @@
 * Back to building projects...
 
 
+### Day 93: April 3, 2018
+
+**Today's Progress**: Completed a video series on Node.js for Beginners. 
+
+**Thoughts** 
+* Back to building projects...
+
+
 
 
 
