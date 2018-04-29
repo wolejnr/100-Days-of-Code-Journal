@@ -729,6 +729,14 @@
 * Back to building projects...
 
 
+### Day 94: April 4, 2018
+
+**Today's Progress**: Finished of styling the Random Quote Machine and moving on to the next project which is one that shows the weather. 
+
+**Thoughts** 
+* Back to building projects...
+
+
 
 
 
