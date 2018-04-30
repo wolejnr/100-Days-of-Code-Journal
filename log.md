@@ -737,6 +737,14 @@
 * Back to building projects...
 
 
+### Day 95: April 5, 2018
+
+**Today's Progress**: Reviewed a material on [Getting off the ground with Express.js](https://medium.freecodecamp.org/getting-off-the-ground-with-expressjs-89ada7ef4e59). 
+
+**Thoughts** 
+* Checking out server-side development with JavaScript...
+
+
 
 
 
