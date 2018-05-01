@@ -745,6 +745,14 @@
 * Checking out server-side development with JavaScript...
 
 
+### Day 96: April 6, 2018
+
+**Today's Progress**: A bit pre-occupied today so I spent an hour reading Chapter 2 of YDKJS series (Up and Going). 
+
+**Thoughts** 
+* Learning Javascript the right way as I begin to explore frameworks in-depth...
+
+
 
 
 
