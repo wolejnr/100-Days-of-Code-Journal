@@ -753,6 +753,14 @@
 * Learning Javascript the right way as I begin to explore frameworks in-depth...
 
 
+### Day 97: April 7, 2018
+
+**Today's Progress**: Finally, got to create my first ExpressJS web app. 
+
+**Thoughts** 
+* Into express I go...
+
+
 
 
 
