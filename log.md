@@ -761,6 +761,14 @@
 * Into express I go...
 
 
+### Day 98: April 8, 2018
+
+**Today's Progress**: Created a small rollcall app that allows users to register then proceed to login and view the profiles of users taking a given course using HTML, CSS, JavaScript and PHP. Can't wait to create the ExpressJS version of it.
+
+**Thoughts** 
+* Finish line in sight...
+
+
 
 
 
