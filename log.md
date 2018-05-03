@@ -769,6 +769,14 @@
 * Finish line in sight...
 
 
+### Day 99: April 9, 2018
+
+**Today's Progress**: Completed the first in the series of You Don't Know JavaScript.
+
+**Thoughts** 
+* Finish line in sight...
+
+
 
 
 
