@@ -777,7 +777,12 @@
 * Finish line in sight...
 
 
+### Day 100: April 10, 2018
 
+**Today's Progress**: Completed the first chapter of You Don't Know JavaScript - Scope and Closures.
+
+**Thoughts** 
+* Done with the first round...
 
 
 
