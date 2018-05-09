@@ -3,7 +3,7 @@
 The goals for this round are as follows:
 1. Complete the @YDKJS series
 2. Build and deploy at least two fully functional web apps using a JS web stack
-3. Write about my experience in the first round
+3. Write about my experience in the first round and publish in a reputable outlet
 
 ### Day 1: May 9, 2018
 
