@@ -17,4 +17,10 @@ The goals for this round are as follows:
 
 **Thoughts:** I believe I am learning a lot at this time in an organised fashion...
 
+### Day 3: May 11, 2018
+
+**Today's Progress**: Worked on my Library web app by including controllers and routes.
+
+**Thoughts:** The first app is well on the way to completion...
+
 
