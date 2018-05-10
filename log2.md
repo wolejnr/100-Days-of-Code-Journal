@@ -11,4 +11,10 @@ The goals for this round are as follows:
 
 **Thoughts:** New round, new rules...
 
+### Day 2: May 10, 2018
+
+**Today's Progress**: Completed Chapter 3 of You Don't Know JS - Scope & Closures.
+
+**Thoughts:** I believe I am learning a lot at this time in an organised fashion...
+
 
