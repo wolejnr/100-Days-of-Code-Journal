@@ -23,4 +23,10 @@ The goals for this round are as follows:
 
 **Thoughts:** The first app is well on the way to completion...
 
+### Day 4: June 22, 2018
+
+**Today's Progress**: Had to re-awaken my programming brain cells using freeCodeCamp's basic algorithm scripting challenge. Today I worked on 'Confirm the Ending' challenge
+
+**Thoughts:** A lot has changed since the last time I used freeCodeCamp. I think the new features and interface are dope:)
+
 
