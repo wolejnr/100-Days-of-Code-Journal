@@ -30,3 +30,8 @@ The goals for this round are as follows:
 **Thoughts:** A lot has changed since the last time I used freeCodeCamp. I think the new features and interface are dope:)
 
 
+### Day 5: June 23, 2018
+
+**Today's Progress**: Completed the fourth chapter of the second YDKJS series 
+
+**Thoughts:** The chapter centred on hoisting
