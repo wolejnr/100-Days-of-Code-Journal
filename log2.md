@@ -35,3 +35,10 @@ The goals for this round are as follows:
 **Today's Progress**: Completed the fourth chapter of the second YDKJS series 
 
 **Thoughts:** The chapter centred on hoisting
+
+
+### Day 6: June 24, 2018
+
+**Today's Progress**: Did some more algorithms from the basic JavaScript algorithm section in FreeCodeCamp 
+
+**Thoughts:** Coding mood being activated...
