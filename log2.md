@@ -42,3 +42,10 @@ The goals for this round are as follows:
 **Today's Progress**: Did some more algorithms from the basic JavaScript algorithm section in FreeCodeCamp 
 
 **Thoughts:** Coding mood being activated...
+
+
+### Day 7: June 25, 2018
+
+**Today's Progress**: Learnt about CSS variables in FreeCodeCamp 
+
+**Thoughts:** Finally I can get back to coding now that I am done writing about Android programming.
