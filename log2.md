@@ -49,3 +49,9 @@ The goals for this round are as follows:
 **Today's Progress**: Learnt about CSS variables in FreeCodeCamp 
 
 **Thoughts:** Finally I can get back to coding now that I am done writing about Android programming.
+
+
+
+### Day 8: July 1, 2018
+
+**Today's Progress**: Continued working on the Applied Visual Design challenges in FreeCodeCamp 
