@@ -55,3 +55,11 @@ The goals for this round are as follows:
 ### Day 8: July 1, 2018
 
 **Today's Progress**: Continued working on the Applied Visual Design challenges in FreeCodeCamp 
+
+
+
+### Day 9: July 4, 2018
+
+**Today's Progress**: Continued working on the Applied Visual Design challenges in FreeCodeCamp and also created the draft layout for my side project
+
+**Thoughts:** I discovered that I had only head knowledge of a number of stuffs (e.g. working with GitHub in VSCode) and not real world experience. Need to learn CSS flexbox to help in the layout design and refresh my knowledge of jQuery for app interactivity.
