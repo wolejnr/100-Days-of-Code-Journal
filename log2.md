@@ -70,3 +70,10 @@ The goals for this round are as follows:
 **Today's Progress**: Wrote a javascript function to chunk an array and continued working on my side project.
 
 **Thoughts:** 
+
+
+### Day 11: July 9, 2018
+
+**Today's Progress**: Worked on my side project. Focused on creating a test page that allows users to enter the names of countries based on the flags displayed.
+
+**Thoughts:** 
