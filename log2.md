@@ -77,3 +77,10 @@ The goals for this round are as follows:
 **Today's Progress**: Worked on my side project. Focused on creating a test page that allows users to enter the names of countries based on the flags displayed.
 
 **Thoughts:** 
+
+
+### Day 12: July 10, 2018
+
+**Today's Progress**: Completed CSS Flexbox in the FreeCodeCamp curriculum. Moving on to apply the knowledge in styling my side project.
+
+**Thoughts:** 
