@@ -84,3 +84,10 @@ The goals for this round are as follows:
 **Today's Progress**: Completed CSS Flexbox in the FreeCodeCamp curriculum. Moving on to apply the knowledge in styling my side project.
 
 **Thoughts:** 
+
+
+### Day 13: July 11, 2018
+
+**Today's Progress**: Applied knowledge of CSS Flexbox in refactoring and re-styling my side project.
+
+**Thoughts:** 
