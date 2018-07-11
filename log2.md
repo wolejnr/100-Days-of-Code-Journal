@@ -98,3 +98,10 @@ The goals for this round are as follows:
 **Today's Progress**: Completed Responsive Web Design Principles and CSS Grid from FreeCodeCamp curriculum. Going to now refactor my side project to reflect the new knowledge gained.
 
 **Thoughts:**
+
+
+### Day 15: July 13, 2018
+
+**Today's Progress**: Completed Applied Visual Design from the FreeCodeCamp curriculum and started Applied Accessibility.
+
+**Thoughts:**
