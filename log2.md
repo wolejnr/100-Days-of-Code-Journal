@@ -90,4 +90,11 @@ The goals for this round are as follows:
 
 **Today's Progress**: Applied knowledge of CSS Flexbox in refactoring and re-styling my side project.
 
-**Thoughts:** 
+**Thoughts:**
+
+
+### Day 14: July 12, 2018
+
+**Today's Progress**: Completed Responsive Web Design Principles and CSS Grid from FreeCodeCamp curriculum. Going to now refactor my side project to reflect the new knowledge gained.
+
+**Thoughts:**
