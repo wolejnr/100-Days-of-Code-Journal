@@ -105,3 +105,10 @@ The goals for this round are as follows:
 **Today's Progress**: Completed Applied Visual Design from the FreeCodeCamp curriculum and started Applied Accessibility.
 
 **Thoughts:**
+
+
+### Day 16: July 14, 2018
+
+**Today's Progress**: Completed Applied Accessibility from the FreeCodeCamp curriculum and ready to start re-building and building the five projects so I can bag the first certificate from FreeCodeCamp.
+
+**Thoughts:**
