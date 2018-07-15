@@ -116,6 +116,6 @@ The goals for this round are as follows:
 
 ### Day 17: July 15, 2018
 
-**Today's Progress**: Refactored my Tribute Page project from FreeCodeCamp - making it responsive to varying screen sizes.
+**Today's Progress**: Refactored my Tribute Page project from FreeCodeCamp - making it responsive to varying screen sizes. I also learnt how to host it as a GitHub page - https://wolejnr.github.io/TributePage_GH/
 
 **Thoughts:**
