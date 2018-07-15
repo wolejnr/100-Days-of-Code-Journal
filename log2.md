@@ -112,3 +112,10 @@ The goals for this round are as follows:
 **Today's Progress**: Completed Applied Accessibility from the FreeCodeCamp curriculum and ready to start re-building and building the five projects so I can bag the first certificate from FreeCodeCamp.
 
 **Thoughts:**
+
+
+### Day 17: July 15, 2018
+
+**Today's Progress**: Refactored my Tribute Page project from FreeCodeCamp - making it responsive to varying screen sizes.
+
+**Thoughts:**
