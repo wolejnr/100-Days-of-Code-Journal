@@ -138,3 +138,7 @@ Though I started the second round with the following goals:
 I discovered that the web development path though interesting may not be my own path as seen in the disconnect I had in this second round of the 100 day coding journey. Up until this time also, I had been fascinated with data science and machine learning but did not know how to dig into it until I recently stumbled upon a course on DataCamp.com titled, (**"Intro to Python for Data Science"**)[https://www.datacamp.com/courses/intro-to-python-for-data-science]. It was free hence I took the plunge and finished it in about two or three days. I got interested in the concepts I learnt and decided to continue learning. I discovered that on DataCamp I could learn everything I needed to about Data Science and Machine learning in a practical and hands-on learning approach. I therefore subscribed to the monthly plan which costs $29 - a fair amount to pay to learn valuable skills that would not just complement my current research skills but prepare me to take the plunge into industry when the time ripens.
 
 I am therefore using this medium to commit to learning Data Science from henceforth and recording my progress on this journal daily. I won't start round two all over but just continue from where I stop and commit to not missing a day without logging activity here so help me God.
+
+### Day 25: October 8, 2018
+
+**Today's Progress**: Completed two chapters of the Python Data Science Toolbox and starting off the third
