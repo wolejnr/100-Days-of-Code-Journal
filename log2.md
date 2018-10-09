@@ -142,3 +142,10 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 ### Day 25: October 8, 2018
 
 **Today's Progress**: Completed two chapters of the Python Data Science Toolbox and starting off the third
+
+
+### Day 26: October 9, 2018
+
+**Today's Progress**: 
+* Completed Python Data Science Toolbox (Part 1) and did some practice exercises. 
+* Also played around with data from my students test to determine the percentage score and also visualize their score distribution using a histogram
