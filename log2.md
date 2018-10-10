@@ -150,3 +150,9 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 * Completed Python Data Science Toolbox (Part 1) and did some practice exercises. 
 * Also played around with data from my students test to determine the percentage score and also visualize their score distribution using a histogram
 * I managed to complete my first Data Science project from DataCamp. It was challenging because I hadn't learnt the topics covered in the project. The sheer fact that I was able to complete inspite of the hurdle shows that **Data Science** is the field for me. I am so excited. Let the learning continue...:)
+
+
+### Day 27: October 10, 2018
+
+**Today's Progress**: 
+* Practiced some data science exercises from DataCamp.
