@@ -155,4 +155,4 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 ### Day 27: October 10, 2018
 
 **Today's Progress**: 
-* Practiced some data science exercises from DataCamp.
+* Practiced some data science exercises from DataCamp and also began the Data Science Toolbox Part 2 lessons.
