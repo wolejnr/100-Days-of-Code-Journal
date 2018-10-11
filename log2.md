@@ -157,3 +157,9 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 **Today's Progress**: 
 * Practiced some data science exercises from DataCamp and also began the Data Science Toolbox Part 2 lessons.
 * Finished the chapter on Using iterators in PythonLand - chapter in **Data Science Toolbox Part 2 lessons**
+
+
+### Day 28: October 11, 2018
+
+**Today's Progress**: 
+* Learnt about List comprehensions and generators
