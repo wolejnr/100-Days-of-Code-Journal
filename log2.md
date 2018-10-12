@@ -163,3 +163,11 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 
 **Today's Progress**: 
 * Learnt about List comprehensions and generators
+
+
+### Day 29: October 12, 2018
+
+**Today's Progress**: 
+* Completed the fourth course in the Data Science Track of DataCamp.com where I learnt about writing my own functions.
+  I also learnt about list comprehensions and generators.
+* Started the fifth course on how to import data in Python which is in two parts
