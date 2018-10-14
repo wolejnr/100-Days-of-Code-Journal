@@ -185,3 +185,5 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 **Today's Progress**: 
 * Started the sixth course in the Data Science Track of [DataCamp](http://www.datacamp.com), where I am learning to import data from the web
 * Completed the chapter on *Interacting with APIs to import data from the web* 
+* Completed Diving deep into the Twitter API
+* Started the 7th course in the track titled, "Cleaning Data with Python"
