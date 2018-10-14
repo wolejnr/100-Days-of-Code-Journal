@@ -177,4 +177,10 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 ### Day 30: October 13, 2018
 
 **Today's Progress**: 
-* Completed the fifth course in the Data Science Track of DataCamp.com where I learnt how to import data from databases by creating an engine, connecting to it and retrieving data using sql before finally closing the connection. 
+* Completed the fifth course in the Data Science Track of DataCamp.com where I learnt how to import data from databases by creating an engine, connecting to it and retrieving data using sql before finally closing the connection.
+
+
+### Day 31: October 14, 2018
+
+**Today's Progress**: 
+* Started the sixth course in the Data Science Track of [DataCamp](http://www.datacamp.com), where I am learning to import data from the web
