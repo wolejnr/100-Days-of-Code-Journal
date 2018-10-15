@@ -187,3 +187,9 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 * Completed the chapter on *Interacting with APIs to import data from the web* 
 * Completed Diving deep into the Twitter API
 * Started the 7th course in the track titled, "Cleaning Data with Python"
+
+
+### Day 32: October 15, 2018
+
+**Today's Progress**: 
+* Completed the first chapter on Exploring Data in the "Cleaning Data with Python" course.
