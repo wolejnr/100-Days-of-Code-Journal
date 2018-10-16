@@ -193,3 +193,9 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 
 **Today's Progress**: 
 * Completed the first chapter on Exploring Data in the "Cleaning Data with Python" course.
+
+
+### Day 33: October 16, 2018
+
+**Today's Progress**: 
+* Completed the chapter on Tidying data for analysis. This one seemed a bit challenging at first and so I had to restart it from the beginning. I now know the difference between melting and pivoting. I also understand that when you pivot back, you need to call the reset_index() method on the pivoted DataFrame to get back its original form. In the chapter also, I learnt how to split columns.
