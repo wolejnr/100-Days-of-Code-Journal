@@ -205,3 +205,9 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 
 **Today's Progress**: 
 * Was a bit engaged throughout today so I could only do practice exercises of the topics I had covered.
+
+
+### Day 35: October 18, 2018
+
+**Today's Progress**: 
+* Was able to complete all daily practice exercises for today.
