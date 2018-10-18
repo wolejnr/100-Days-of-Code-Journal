@@ -212,3 +212,4 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 **Today's Progress**: 
 * Was able to complete all daily practice exercises for today.
 * Completed Combining data for analysis chapter of Cleaning Data for Analysis
+* Completed Cleaning data for analysis chapter
