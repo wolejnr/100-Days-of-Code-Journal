@@ -218,3 +218,4 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 
 **Today's Progress**: 
 * Completed Case Study chapter on Cleaning Data for Analysis.
+* Started the 8th course in the Data Scientist Track of DataCamp
