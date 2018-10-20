@@ -219,3 +219,9 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 **Today's Progress**: 
 * Completed Case Study chapter on Cleaning Data for Analysis.
 * Started the 8th course in the Data Scientist Track of DataCamp
+
+
+### Day 37: October 20, 2018
+
+**Today's Progress**: 
+* Worked on a number of Datacamp exercises.
