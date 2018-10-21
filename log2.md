@@ -225,3 +225,9 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 
 **Today's Progress**: 
 * Worked on a number of Datacamp exercises.
+
+
+### Day 38: October 21, 2018
+
+**Today's Progress**: 
+* Completed the second data science project from Datacamp. Although it looked tough from the start but I was able to complete it. The only concept that was new was bootstrap analysis which I will still cover in future chapters on the Data Scientist Track. 
