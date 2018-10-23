@@ -237,3 +237,9 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 
 **Today's Progress**: 
 * Completed the first chapter of Pandas Foundations titled, "Data ingestion & inspection".
+
+
+### Day 40: October 23, 2018
+
+**Today's Progress**: 
+* Did practice exercises on Datacamp.
