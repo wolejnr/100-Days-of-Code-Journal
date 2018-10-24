@@ -243,3 +243,9 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 
 **Today's Progress**: 
 * Did practice exercises on Datacamp.
+
+
+### Day 41: October 24, 2018
+
+**Today's Progress**: 
+* Completed Exploratory data analysis chapter of Pandas Foundations
