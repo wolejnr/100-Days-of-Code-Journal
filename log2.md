@@ -249,3 +249,9 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 
 **Today's Progress**: 
 * Completed Exploratory data analysis chapter of Pandas Foundations
+
+
+### Day 42: October 25, 2018
+
+**Today's Progress**: 
+* Began Kaggle Python 7-day challenge
