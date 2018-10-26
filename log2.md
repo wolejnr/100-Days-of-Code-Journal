@@ -255,3 +255,9 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 
 **Today's Progress**: 
 * Began Kaggle Python 7-day challenge
+
+
+### Day 43: October 26, 2018
+
+**Today's Progress**: 
+* Completed the 8th course in the Data Science Track of DataCamp
