@@ -262,3 +262,9 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 **Today's Progress**: 
 * Completed the chapter on "Time series in pandas"
 
+
+### Day 44: October 27, 2018
+
+**Today's Progress**: 
+* Completed Day 2 of the 7-day learn Python Challenge from Kaggle
+
