@@ -268,3 +268,9 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 **Today's Progress**: 
 * Completed Day 2 of the 7-day learn Python Challenge from Kaggle
 
+
+### Day 45: October 28, 2018
+
+**Today's Progress**: 
+* Completed Day 3 of the 7-day learn Python Challenge from Kaggle
+
