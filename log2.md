@@ -279,4 +279,5 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 
 **Today's Progress**: 
 * Worked on Day 4 challenges of the 7-day learn Python Challenge from Kaggle
+* Eureka!! After almost 3 days of battling a task on DataCamp, I finally figured the solution
 
