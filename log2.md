@@ -281,3 +281,10 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 * Worked on Day 4 challenges of the 7-day learn Python Challenge from Kaggle
 * Eureka!! After almost 3 days of battling a task on DataCamp, I finally figured the solution
 
+
+### Day 47: October 30, 2018
+
+**Today's Progress**: 
+* Was able to complete Day 4 challenge of the 7-day learn Python Challenge from Kaggle
+* Aside that I was quite busy with admin tasks today
+
