@@ -288,3 +288,9 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 * Was able to complete Day 4 challenge of the 7-day learn Python Challenge from Kaggle
 * Aside that I was quite busy with admin tasks today
 
+
+### Day 48: October 31, 2018
+
+**Today's Progress**: 
+* Finally completed Pandas Foundations - it has been the most tasking course since I got into Data Science
+
