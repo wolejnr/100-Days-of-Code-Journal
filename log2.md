@@ -295,5 +295,11 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 * Finally completed Pandas Foundations - it has been the most tasking course since I got into Data Science
 
 
+### Day 49: November 1, 2018
+
+**Today's Progress**: 
+* Unable to do much today because of school activity
+
+
 
 
