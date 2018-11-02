@@ -299,6 +299,7 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 
 **Today's Progress**: 
 * Unable to do much today because of school activity
+* no progress yet
 
 
 
