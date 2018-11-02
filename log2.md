@@ -302,5 +302,17 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 * no progress yet
 
 
+### Day 50: November 2, 2018
+
+**Today's Progress**: 
+* no progress yet but watched a few Youtube videos on Data Science job interviews
+
+
+### Day 51: November 3, 2018
+
+**Today's Progress**: 
+* Back in the groove. Was able to do some practice questions today on DataCamp.
+
+
 
 
