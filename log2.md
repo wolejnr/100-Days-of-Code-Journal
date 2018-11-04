@@ -314,5 +314,11 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 * Back in the groove. Was able to do some practice questions today on DataCamp.
 
 
+### Day 52: November 4, 2018
+
+**Today's Progress**: 
+* Did a few exercises on Manipulating Data in Pandas.
+
+
 
 
