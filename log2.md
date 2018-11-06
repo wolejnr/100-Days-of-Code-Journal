@@ -320,5 +320,11 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 * Did a few exercises on Manipulating Data in Pandas.
 
 
+### Day 53: November 5, 2018
+
+**Today's Progress**: 
+* Completed chapter 1 of Manipulating Dataframes with pandas.
+
+
 
 
