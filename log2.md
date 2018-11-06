@@ -326,5 +326,10 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 * Completed chapter 1 of Manipulating Dataframes with pandas focused on Extracting and transforming data
 
 
+### Day 54: November 6, 2018
+
+**Today's Progress**: 
+* Did a practice exercise on DataCamp on pandas Foundations
+
 
 
