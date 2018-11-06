@@ -323,7 +323,7 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 ### Day 53: November 5, 2018
 
 **Today's Progress**: 
-* Completed chapter 1 of Manipulating Dataframes with pandas.
+* Completed chapter 1 of Manipulating Dataframes with pandas focused on Extracting and transforming data
 
 
 
