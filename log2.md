@@ -332,4 +332,10 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 * Did a practice exercise on DataCamp on pandas Foundations
 
 
+### Day 55: November 7, 2018
+
+**Today's Progress**: 
+* Got started with Kaggle Learn. Built my first machine learning model which was a decision tree.
+
+
 
