@@ -338,4 +338,10 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 * Got started with Kaggle Learn. Built my first machine learning model which was a decision tree.
 
 
+### Day 56: November 8, 2018
+
+**Today's Progress**: 
+* Learnt how to validate a machine learning model and also about Random Forest algorithm as an enhanced version of decision trees.
+
+
 
