@@ -344,4 +344,14 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 * Learnt how to validate a machine learning model and also about Random Forest algorithm as an enhanced version of decision trees.
 
 
+### Day 57: November 9, 2018
+
+**Today's Progress**: 
+* Today I broke the ice and made my first submission to a Kaggle competition titled, **Titanic: Machine Learning from Disaster**. I'm currently ranked least but that is fine because I can now work my way up.
+
+## Lesson Learned
+1. How to clean data before use.
+2. How to apply machine learning algorithm to a given problem
+
+
 
