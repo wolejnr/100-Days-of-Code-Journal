@@ -349,9 +349,13 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 **Today's Progress**: 
 * Today I broke the ice and made my first submission to a Kaggle competition titled, **Titanic: Machine Learning from Disaster**. I'm currently ranked least but that is fine because I can now work my way up.
 
-## Lesson Learned
+#### Lesson Learned
 1. How to clean data before use.
 2. How to apply machine learning algorithm to a given problem
 
 
+### Day 58: November 10, 2018
+
+**Today's Progress**: 
+* Completed the Machine Learning crash course on Kaggle and resumed back to [DataCamp](http://www.datacamp.com) to complete the Data Scientist Track.
 
