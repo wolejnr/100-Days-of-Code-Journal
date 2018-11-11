@@ -359,3 +359,9 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 **Today's Progress**: 
 * Completed the Machine Learning crash course on Kaggle and resumed back to [DataCamp](http://www.datacamp.com) to complete the Data Scientist Track.
 
+
+### Day 59: November 11, 2018
+
+**Today's Progress**: 
+* Continuation of learning on Datacamp.
+
