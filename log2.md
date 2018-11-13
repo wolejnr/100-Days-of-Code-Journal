@@ -371,3 +371,9 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 **Today's Progress**: 
 * Completed the Course on Manipulating Data with Pandas on Datacamp. So far I have completed 9 courses, currently on the 10th one with 12 more to go to complete the Data Scientist Python Track
 
+
+### Day 61: November 13, 2018
+
+**Today's Progress**: 
+* Completed the first chapter of Merging DataFrames with Pandas
+
