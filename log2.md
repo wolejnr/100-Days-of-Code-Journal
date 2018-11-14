@@ -376,4 +376,11 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 
 **Today's Progress**: 
 * Completed the first chapter of Merging DataFrames with Pandas
+* Completed a third Data Science project from DataCamp
+
+
+### Day 62: November 14, 2018
+
+**Today's Progress**: 
+* Completed the tenth module in DataCamp and commenced the 11th module
 
