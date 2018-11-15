@@ -384,3 +384,11 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 **Today's Progress**: 
 * Completed the tenth module in DataCamp and commenced the 11th module
 
+
+
+### Day 63: November 15, 2018
+
+**Today's Progress**: 
+* Worked on a presentation titled, *"Role of AI for Sustainable Development in Developing Countries"*
+* Worked on the first chapter of the 12th DataCamp course
+
