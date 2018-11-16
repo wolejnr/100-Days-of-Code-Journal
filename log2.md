@@ -392,3 +392,10 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 * Worked on a presentation titled, *"Role of AI for Sustainable Development in Developing Countries"*
 * Worked on the first chapter of the 12th DataCamp course
 
+
+
+### Day 64: November 16, 2018
+
+**Today's Progress**: 
+* Continued working on the first chapter of the 12th DataCamp course
+
