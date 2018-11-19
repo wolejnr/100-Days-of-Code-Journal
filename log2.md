@@ -399,3 +399,11 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 **Today's Progress**: 
 * Continued working on the first chapter of the 12th DataCamp course
 
+
+
+### Day 65: November 19, 2018
+
+**Today's Progress**: 
+* Skipped two days so as to be with family and attend a wedding ceremony
+* Made only slight progress on DataCamp learning due to a lot of accumulated work as a result of the two-day break
+
