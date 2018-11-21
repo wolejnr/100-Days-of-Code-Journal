@@ -407,3 +407,11 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 * Skipped two days so as to be with family and attend a wedding ceremony
 * Made only slight progress on DataCamp learning due to a lot of accumulated work as a result of the two-day break
 
+
+
+### Day 66: November 21, 2018
+
+**Today's Progress**: 
+* Skipped a day so as to complete some admin work in my department.
+* Completed the first chapter of "Introduction to databases with Python"
+
