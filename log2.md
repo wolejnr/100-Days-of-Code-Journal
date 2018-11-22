@@ -415,3 +415,9 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 * Skipped a day so as to complete some admin work in my department.
 * Completed the first chapter of "Introduction to databases with Python"
 
+
+### Day 67: November 22, 2018
+
+**Today's Progress**: 
+* Started working on the second chapter of "Introduction to databases with Python".
+
