@@ -421,3 +421,10 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 **Today's Progress**: 
 * Started working on the second chapter of "Introduction to databases with Python".
 
+
+### Day 68: November 24, 2018
+
+**Today's Progress**: 
+* Skipped a day due to the pressure of marking my students' scripts.
+* Made a little progress today. Cannot wait to be done marking so as to give full attention and try to complete before December.
+
