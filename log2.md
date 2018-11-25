@@ -428,3 +428,9 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 * Skipped a day due to the pressure of marking my students' scripts.
 * Made a little progress today. Cannot wait to be done marking so as to give full attention and try to complete before December.
 
+
+
+### Day 69: November 25, 2018
+
+**Today's Progress**: 
+* Completed the chapter on, "Applying Filtering, Ordering and Grouping to Queries"! under introduction to databases in Python
