@@ -434,3 +434,10 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 
 **Today's Progress**: 
 * Completed the chapter on, "Applying Filtering, Ordering and Grouping to Queries"! under introduction to databases in Python
+
+
+
+### Day 70: November 26, 2018
+
+**Today's Progress**: 
+* Completed the chapter on, "Advanced SQLAlchemy Queries"
