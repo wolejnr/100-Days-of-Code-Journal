@@ -441,3 +441,10 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 
 **Today's Progress**: 
 * Completed the chapter on, "Advanced SQLAlchemy Queries"
+
+
+
+### Day 71: November 27, 2018
+
+**Today's Progress**: 
+* No coding today. Focused solely on grading my students' coding exam scripts.
