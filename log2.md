@@ -455,4 +455,4 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 **Today's Progress**: 
 * Done with grading scripts.
 * Completed the chapter on, "Creating and Manipulating your own Databases"
-Completed Introduction to Databases and started Introduction to Data Visualization with Python
+* Completed Introduction to Databases and started Introduction to Data Visualization with Python. I now have 9 modules to go to complete the Data Scientist track
