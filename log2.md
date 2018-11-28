@@ -448,3 +448,10 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 
 **Today's Progress**: 
 * No coding today. Focused solely on grading my students' coding exam scripts.
+
+
+### Day 72: November 28, 2018
+
+**Today's Progress**: 
+* Done with grading scripts.
+* Completed the chapter on, "Creating and Manipulating your own Databases"
