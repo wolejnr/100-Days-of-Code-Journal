@@ -461,4 +461,7 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 ### Day 73: November 29, 2018
 
 **Today's Progress**: 
-* Completed the chapter on, "Customizing plots" in Introduction to Data Visualization with Python
+* Completed the chapter on, "Customizing plots" in Introduction to Data Visualization with Python"
+* Completed the chapter on, "Plotting 2D arrays"
+
+
