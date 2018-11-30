@@ -471,3 +471,9 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 * Completed the chapter on "Statistical plots with Seaborn".
 
 
+### Day 75: December 1, 2018
+
+**Today's Progress**: 
+* Completed the chapter on "Analyzing time series and images".
+
+
