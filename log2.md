@@ -465,3 +465,9 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 * Completed the chapter on, "Plotting 2D arrays"
 
 
+### Day 74: November 30, 2018
+
+**Today's Progress**: 
+* Completed the chapter on "Statistical plots with Seaborn".
+
+
