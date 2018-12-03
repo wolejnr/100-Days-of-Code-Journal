@@ -477,3 +477,9 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 * Completed the chapter on "Analyzing time series and images".
 
 
+### Day 76: December 3, 2018
+
+**Today's Progress**: 
+* Unable to do anything with code the last two days as a result of academic duties that need to be attended to.
+
+
