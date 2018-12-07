@@ -483,3 +483,9 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 * Unable to do anything with code the last two days as a result of academic duties that need to be attended to.
 
 
+### Day 77: December 7, 2018
+
+**Today's Progress**: 
+* Completed the chapter on "Basic plotting with Bokeh" under the "Interactive Data Visualization with Bokeh" module.
+
+
