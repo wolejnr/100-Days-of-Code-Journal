@@ -493,6 +493,6 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 
 **Today's Progress**: 
 * Completed the chapter on "Layouts, Interactions, and Annotations" in the Interactive Data Visualization with Bokeh course.
-*  "Building interactive apps with Bokeh"
+* Completed the chapter on "Building interactive apps with Bokeh"
 
 
