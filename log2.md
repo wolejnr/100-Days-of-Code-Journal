@@ -496,3 +496,8 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 * Completed the chapter on "Building interactive apps with Bokeh"
 
 
+### Day 79: December 14, 2018
+
+**Today's Progress**: 
+* Completed the Interactive Data Visualization with Bokeh module on Data Scientist Track of DataCamp.
+* Started the first chapter of the first part of "Statistical Thinking in Python"
