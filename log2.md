@@ -501,3 +501,9 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 **Today's Progress**: 
 * Completed the Interactive Data Visualization with Bokeh module on Data Scientist Track of DataCamp.
 * Started the first chapter of the first part of "Statistical Thinking in Python"
+
+
+### Day 80: December 15, 2018
+
+**Today's Progress**: 
+* Completed the second chapter of Statistical Thinking in Python I.
