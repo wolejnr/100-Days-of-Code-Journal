@@ -513,3 +513,4 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 
 **Today's Progress**: 
 * Completed the third chapter of Statistical Thinking in Python I.
+* Completed DataCamp's Statistical Thinking in Python I.
