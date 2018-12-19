@@ -520,3 +520,10 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 
 **Today's Progress**: 
 * Completed the first chapter of Statistical Thinking in Python II.
+
+
+
+### Day 83: December 19, 2018
+
+**Today's Progress**: 
+* Completed the second chapter of Statistical Thinking in Python II.
