@@ -535,3 +535,11 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 * Completed the third, fourth and fifth chapters of Statistical Thinking in Python II.
 * Completed the first chapter of "Joining Data in PostgreSQL"
 
+
+### Day 85: December 21, 2018
+
+**Today's Progress**: 
+* Completed the second chapters of Joining Data in PostgreSQL.
+
+
+
