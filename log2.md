@@ -543,3 +543,11 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 
 
 
+### Day 86: December 23, 2018
+
+**Today's Progress**: 
+* Completed the course on Joining Data in PostgreSQL and started out in machine learning.
+
+
+
+
