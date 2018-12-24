@@ -550,4 +550,11 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 
 
 
+### Day 87: December 24, 2018
+
+**Today's Progress**: 
+* Completed the first chapter on Supervised Learning with scikit-learn.
+
+
+
 
