@@ -562,5 +562,12 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 * Completed the second chapter on Regression from the Supervised Learning with scikit-learn course.
 
 
+### Day 89: December 26, 2018
+
+**Today's Progress**: 
+* Completed the Supervised Learning with scikit-learn course.
+* Started the course titled, "Supervised Machine Learning with Experts"
+
+
 
 
