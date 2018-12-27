@@ -567,6 +567,15 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 **Today's Progress**: 
 * Completed the Supervised Learning with scikit-learn course.
 * Started the course titled, "Supervised Machine Learning with Experts"
+* Completed the course on "Supervised Machine Learning with Experts"
+
+
+### Day 90: December 27, 2018
+
+**Today's Progress**: 
+* Started the course titled, "Unsupervised Learning with Python"
+* Completed the first chapter.
+
 
 
 
