@@ -577,6 +577,13 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 * Completed the first chapter.
 
 
+### Day 91: December 28, 2018
+
+**Today's Progress**: 
+* Completed the course titled, "Unsupervised Learning with Python"
+
+
+
 
 
 
