@@ -583,6 +583,12 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 * Completed the course titled, "Unsupervised Learning with Python"
 
 
+### Day 92: December 29, 2018
+
+**Today's Progress**: 
+* Completed the third chapter of the course titled, "Deep Learning with Python"
+
+
 
 
 
