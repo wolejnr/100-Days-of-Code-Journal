@@ -589,6 +589,12 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 * Completed the third chapter of the course titled, "Deep Learning with Python"
 
 
+### Day 93: December 30, 2018
+
+**Today's Progress**: 
+* Completed the course titled, "Deep Learning with Python"
+
+
 
 
 
