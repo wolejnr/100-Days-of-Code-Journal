@@ -593,6 +593,7 @@ I am therefore using this medium to commit to learning Data Science from hencefo
 
 **Today's Progress**: 
 * Completed the course titled, "Deep Learning with Python"
+* Completed "Data Scientist with Python" Track on DataCamp
 
 
 
